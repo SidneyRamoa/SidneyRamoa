@@ -1,6 +1,5 @@
-### Salve, Salve! Eu sou o Sidney Ramos
+### Salve, Salve! Sidney Ramos aqui xD
 
-- 📚 Estudando JavaScript
 
 <div>
   <a href="https://github.com/SidneyRamoa">
